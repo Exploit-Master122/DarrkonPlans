@@ -17,6 +17,9 @@
   - Xbox Cloud
   - Steam (Website)
   - TikTok
+  - CHATGPT
+  - QWEN.AI
+  - CLAUDE
   - WeChat
   - Watsapp
   - Discord
@@ -32,6 +35,15 @@
   - Netflix
   - Twitch.tv
   - Tiktok
+- REALLY GOOD TOOLS:
+ - [HTML EDITOR AND MORE FROM RHW](https://be762cbb.simpletools-mjx.pages.dev/)
+ - [Shimmer Exploit](https://sh1mmer.me/)
+ - [ExtPrinter](https://blobby-boi.github.io/ExtPrint3r/)
+ - [RigTools](https://github.com/Exploit-Master122/Rigtools-2.0)
+ - [N64 ROM UPLOADER](https://truffled.lol/iframe.html?url=https%3A%2F%2Ftruffled.lol%2Ftools%2Fn64.html)
+ - [EMULATOR GAMES](https://teddblue.github.io/gamebois/)
+ - [VSCODE](https://vscode.dev/)
+ - 
 
 - STYLING AND SETTINGS:
  - Sidebar, MacOS sort of layout
@@ -44,6 +56,8 @@
  - Loading screen (With the funny Quotes)
  - Leave Site popup
  - JSON Data Transfer
+ - About:Blank Cloaking
+ - Blob URL cloaking
  - Search engine:
  - (Google, Duckduckgo, Bing, Qwant, SearXNG)
  - Account functionality
