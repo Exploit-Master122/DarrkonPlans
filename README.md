@@ -49,7 +49,8 @@
  - Account functionality
  - Tab Cloaking (Google Classroom, Google, And much more)
  - Payment method (STRIPE.COM)
-###### AND SO. MUCH. MORE
+###### AND SO. MUCH. FREAKING. MORE
+###### I'm going to tweak so hard (What, who said that?)
 In this simple, MacOS like Web Operating System, (Darrkon v12)
 ###### IT SHALL BE THE BEST PROXY!!
  
