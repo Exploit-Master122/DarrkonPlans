@@ -23,7 +23,7 @@
   - WeChat
   - Watsapp
   - Discord
-  - Now.gg bypass (Frogies Arcade)
+  - Roblox Now.gg bypass (Frogies Arcade)
   - Spotify
   - Twitch
   - Netflix
@@ -49,7 +49,7 @@
  - Sidebar, MacOS sort of layout
  - ALL OPERATING SYSTEM TOOLS
  - LINUX EMULATOR
- - SO MUCH FREAKING CSS IT'S SO HOT I WOULD LICK IT CLEAN
+ - SO MUCH FREAKING CSS IT'S SO HOT I WOULD LICK IT CLEAN, With themes of:
  -  ULTRAKILL RED, Sakura, Lavender, Blue Skies, Bubblegum, Ocean, Twilight, Cyber Neon, Galaxy
  -  With CSS that has the same sort of themes as SecuredWeb v3 (By GGhunter)
  - Panic Key 
