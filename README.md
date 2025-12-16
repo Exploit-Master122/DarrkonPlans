@@ -49,7 +49,7 @@
  - Sidebar, MacOS sort of layout
  - ALL OPERATING SYSTEM TOOLS
  - LINUX EMULATOR
- - LOTS OF SEXY CSS (Uhh! that feels great Szvy) With themes of:
+ - SO MUCH FREAKING CSS IT'S SO HOT I WOULD LICK IT CLEAN
  -  ULTRAKILL RED, Sakura, Lavender, Blue Skies, Bubblegum, Ocean, Twilight, Cyber Neon, Galaxy
  -  With CSS that has the same sort of themes as SecuredWeb v3 (By GGhunter)
  - Panic Key 
@@ -64,7 +64,7 @@
  - Tab Cloaking (Google Classroom, Google, And much more)
  - Payment method (STRIPE.COM)
 ###### AND SO. MUCH. FREAKING. MORE
-###### I'm going to tweak so hard (What, who said that?)
+###### I'm going to tweak so hard because of this proxy...
 In this simple, MacOS like Web Operating System, (Darrkon v12)
 ###### IT SHALL BE THE BEST PROXY!!
  
