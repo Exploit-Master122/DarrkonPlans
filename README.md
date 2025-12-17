@@ -43,7 +43,7 @@
  - [N64 ROM UPLOADER](https://truffled.lol/iframe.html?url=https%3A%2F%2Ftruffled.lol%2Ftools%2Fn64.html)
  - [EMULATOR GAMES](https://teddblue.github.io/gamebois/)
  - [VSCODE](https://vscode.dev/)
- - [WINSTON'S UNBLOCKED AI MODEL](https://replit.com/oidc-login-consent/FUwRB6xEaE7JIat8oYARw)
+ - [WINSTON'S UNBLOCKED AI MODEL](http://core-x.replit.app/)
 
 - STYLING AND SETTINGS:
  - Sidebar, MacOS sort of layout
