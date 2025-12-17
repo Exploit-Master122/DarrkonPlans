@@ -7,6 +7,7 @@
   - wss://daydreamx.pro
   - wss://waves.lat
 - BINARYPERSON RAMMERHEAD PROXY
+- GLINT BROWSER
  - Ask him about it and ask for small CSS and HTML changes
 - 206,000 TOTAL GAMES
  - 650 (GN-Math)
@@ -68,5 +69,5 @@
 ###### AND SO. MUCH. FREAKING. MORE
 ###### I'm going to tweak so hard because of this proxy...
 In this simple, MacOS like Web Operating System, (Darrkon v12)
-###### IT SHALL BE THE BEST PROXY!!
+###### PEAK SITE SOON
  
