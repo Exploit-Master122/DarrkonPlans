@@ -6,9 +6,8 @@
   - wss://anura.pro
   - wss://daydreamx.pro
   - wss://waves.lat
-- BINARYPERSON RAMMERHEAD PROXY
-- GLINT BROWSER
- - Ask him about it and ask for small CSS and HTML changes
+- BINARYPERSON RAMMERHEAD PROXY LAYOUT
+- GLINT BROWSER LAYOUT
 - 206,000 TOTAL GAMES
  - 650 (GN-Math)
  - 4,500 (CrazyGames)
