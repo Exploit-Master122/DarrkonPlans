@@ -4,7 +4,7 @@
 - Ultraviolet or Wisp or TinyJet functionality for proxy, fast and speedy
   - Wisp servers (Best:)
   - wss://anura.pro
-  - wss://daydreamx.pro
+  - wss://wisp.rhw.one (RHW HAS GIVEN ME PERMISSION)
   - wss://waves.lat
 - BINARYPERSON RAMMERHEAD PROXY LAYOUT
 - GLINT BROWSER LAYOUT
