@@ -6,8 +6,7 @@
   - wss://anura.pro
   - wss://wisp.rhw.one (RHW HAS GIVEN ME PERMISSION)
   - wss://waves.lat
-- BINARYPERSON RAMMERHEAD PROXY LAYOUT
-- GLINT BROWSER LAYOUT
+- Proxy from HyperSpeed
 - 206,000 TOTAL GAMES
  - 650 (GN-Math)
  - 4,500 (CrazyGames)
